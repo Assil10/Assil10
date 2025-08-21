@@ -1,20 +1,19 @@
 <!-- Profile README for GitHub -->
 
-<h1 align="center">Hi 👋, I'm Assil Khaldi</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Blockchain Enthusiast | 🌍 Based in Tunisia</h3>
+<h1 align="center">👋 Hi, I'm Assil Khaldi</h1>
+<h3 align="center">💻 Software Engineer | 🚀 Blockchain Developer | 🌍 Tunisia</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Final-year Informatics student at **Université de Monastir**  
-- 🛠 Skilled in **Python, JavaScript, Solidity, React, Node.js, MongoDB**  
-- 🔗 Passionate about **Blockchain, AI, and Full-Stack Development**  
-- 🌱 Currently learning **Laravel, advanced Solidity & smart contracts**  
-- ⚡ Fun fact: I can beat 1800+ bots in chess ♟️  
+## 🌟 About Me  
+🎓 Graduated in Computer Science from **Université de Monastir**  
+💡 Passionate about **Blockchain, AI, and Full-Stack Web Development**  
+🛠 Skilled in building **Web Apps, Smart Contracts, and Scalable Backends**  
+♟ Chess enthusiast | 🏋️ Bodybuilding | 🎥 Anime lover  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Toolbox  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -27,16 +26,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AssilKhaldi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=AssilKhaldi&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssilKhaldi&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AssilKhaldi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=AssilKhaldi&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssilKhaldi&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
@@ -51,10 +57,8 @@
 
 ---
 
-## ✨ Fun Zone
-- 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
-- 🎯 Always aiming to **build impactful projects**.  
-- 🕹 Loves **chess, anime, and creative problem-solving**.  
+## ✨ Quote I Live By  
+> *"First, solve the problem. Then, write the code."* – John Johnson  
 
 ---
 

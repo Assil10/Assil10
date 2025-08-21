@@ -29,15 +29,15 @@
 ## 📊 GitHub Analytics  
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AssilKhaldi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Assil10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   
   <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=AssilKhaldi&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Assil10&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssilKhaldi&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assil10&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---

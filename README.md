@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">⚔️ Hi, I'm Assil Khaldi ⚔️</h1>
-<h3 align="center">Software Engineer | Blockchain Developer | Dark Coder</h3>
+<h3 align="center">Software Engineer | Ai enthusiast | Dark Coder</h3>
 
 ---
 

@@ -1,67 +1,86 @@
-<!-- Profile README for GitHub -->
+<!-- Profile README -->
 
-<h1 align="center">👋 Hi, I'm Assil Khaldi</h1>
-<h3 align="center">💻 Software Engineer | 🚀 Blockchain Developer | 🌍 Tunisia</h3>
-
----
-
-## 🌟 About Me  
-🎓 Graduated in Computer Science from **Université de Monastir**  
-💡 Passionate about **Blockchain, AI, and Full-Stack Web Development**  
-🛠 Skilled in building **Web Apps, Smart Contracts, and Scalable Backends**  
-♟ Chess enthusiast | 🏋️ Bodybuilding | 🎥 Anime lover  
-
----
-
-## 🛠️ Tech Toolbox  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <!-- Berserk Banner -->
+  <img src="https://art.ngfiles.com/images/1832000/1832365_shadowaod_berserk-pixel-fanart.png?f1621513612" alt="Berserk Banner" />
+</p>
+
+<h1 align="center">⚔️ Hi, I'm Assil Khaldi ⚔️</h1>
+<h3 align="center">Software Engineer | Blockchain Developer | Dark Coder</h3>
+
+---
+
+<h2 align="center">🧩 About Me</h2>
+
+<p align="center" style="line-height:1.8;">
+  🎓 <strong>Computer Science Graduate</strong><br><br>
+  🚀 <strong>Full-Stack Developer</strong><br><br>
+  🔥 Passionate about <strong>Blockchain & AI</strong><br><br>
+  🛠 Skilled in <strong>Python, JavaScript, Solidity, React, Node.js, MongoDB</strong><br>
+</p>
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&emsp;&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&emsp;&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />&emsp;&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&emsp;&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />&emsp;&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
+</p>
+
+  >
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<h3 align="center">⚡ GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assil10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+</p>
+
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=assil10&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+<h3 align="center">🚀 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=assil10&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Assil10&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Assil10&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-</p>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assil10&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/assilkhadli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
+  </a> &nbsp;
   <a href="https://YOUR-PORTFOLIO.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:YOURMAIL@gmail.com">
+  </a> &nbsp;
+  <a href="mailto:khaldi.assil40@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✨ Quote I Live By  
-> *"First, solve the problem. Then, write the code."* – John Johnson  
+<h2 align="center">⚡ Quote I Live By</h2>
+
+<p align="center">
+<i>
+"In this world, is the destiny of mankind controlled by some transcendental entity or law? <br>
+Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will."
+</i> <br>
+– <b>Berserk</b>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AssilKhaldi&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=assil10&color=red" alt="Profile Views" />
 </p>

@@ -56,7 +56,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/assilkhadli" target="_blank">
+  <a href="https://www.linkedin.com/in/assilkhaldi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a> &nbsp;
   <a href="https://YOUR-PORTFOLIO.com" target="_blank">

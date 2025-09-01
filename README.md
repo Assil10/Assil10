@@ -5,7 +5,7 @@
   <img src="https://art.ngfiles.com/images/1832000/1832365_shadowaod_berserk-pixel-fanart.png?f1621513612" alt="Berserk Banner" />
 </p>
 
-<h1 align="center">⚔️ Hi, I'm Assil Khaldi ⚔️</h1>
+<h1 align="center"> Hi, I'm Assil Khaldi </h1>
 <h3 align="center">Software Engineer | Ai enthusiast | Dark Coder</h3>
 
 ---
